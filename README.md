@@ -29,4 +29,4 @@ During the talk we will explore topics such as...
 
 Feel free to ping me anytime on [Telegram](http://telegram.me/rowdymehul) or [Twitter](http://twitter.com/rowdymehul) and I’m happy to chat with you.
 
-For any queries raise a [issue](https://github.com/rowdymehul/OSCAL-18/issues) and please feel free to submit a PR anytime :)
+For any queries raise a [issue](https://github.com/rowdymehul/Authentication-using-Laravel-Passport/issues) and please feel free to submit a PR anytime :)

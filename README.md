@@ -1,7 +1,7 @@
 # Authentication-using-Laravel-Passport
 
 * Talk title : Authentication using Laravel Passport
-* Description : In this talk we will cover a basic authentication application with modern REST API in Laravel. In this auidinace wull learn about Authentication using Laravel Passport Securely authenticate users to use your API using OAuth 2.
+* Description : In this talk we will cover a basic authentication application with modern REST API in Laravel. In this audience will learn about Authentication using Laravel Passport Securely authenticate users to use your API using OAuth 2.
 
 # Introduction
 
